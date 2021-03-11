@@ -2,12 +2,21 @@
     box-sizing: border-box;
 }
 .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
+    width: 25px;
     float: right;
+    
+  }
+  .hala{
+    margin: 1px;
+    padding: 0.3px;
+    float: right;
+    width: 25px;
+  }
+  #logo{
+    float: left;
+    width: 40px;
+    height: 60px;
+   margin: 20px; ;
   }
 
   .p{
@@ -18,7 +27,8 @@
     text-decoration: none;
     float: left;
   }
-  h1{padding-bottom: 90px;
+  h1{
+    padding-bottom: 90px;
       text-align: center;
       font-family: cursive;
       color: black;
@@ -28,5 +38,41 @@
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 55%;
   }
+  button{
+    background-color: rgb(241, 36, 36);
+    color: white;
+    float: right;
+    width: 100px;
+  }
+main header img {
+   float: right;
+   width: 30px;
+ }
+ h5{
+   font-size: x-small;
+   align-content:stretch;
+   position: relative;
+   color: gray;
+ }
+ #print-icon{
+  width: 25px;
+  float: right;
+ }
+ #firstCheckbox{
+  float: left;
+ }
+ #secCheckbox{
+  float: right;
+}
+div{
+  float:right;
+}
+.boxx{
+width: 100vh;
+margin-bottom: 50px;
+box-shadow: 1px 2px 3px;
+background-image:url('https://github.com/LTUC/amman-201d18/blob/main/class-10/choco-pizza-lab/lab-assets/list-bg.png?raw=true');
+height: 50vh;
+}
