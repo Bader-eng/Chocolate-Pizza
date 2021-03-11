@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+  }
+
+  .p{
+    padding: 20px;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+  }
+  h1{padding-bottom: 90px;
+      text-align: center;
+      font-family: cursive;
+      color: black;
+      
+  }
+  .p1{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }
